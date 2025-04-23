@@ -1,0 +1,54 @@
+_repo: In-the-night_75628
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gorell, Ronald Gorell Barnes, Baron
+    aliases:
+    - Barnes, R. Gorell
+    - Barnes, Ronald Gorell
+    - Gorell, Lord
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '58072'
+    url: http://www.gutenberg.org/2009/agents/58072
+    wikipedia: https://en.wikipedia.org/wiki/Ronald_Barnes,_3rd_Baron_Gorell
+description: 'Reading ease score: 78.2 (7th grade). Fairly easy to read.'
+gutenberg_bookshelf: 'Browsing: Crime/Mystery'
+gutenberg_issued: '2025-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75628'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/008668747
+pgterms:marc905: 20250310214537barnes
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aNew York, NY :$bLongmans, Green and Co., $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Police -- England -- Fiction'
+- !lcsh 'Country homes -- England -- Fiction'
+- !lcc 'PR'
+- GITenberg
+summary: '"In the Night" by R. Gorell Barnes is a mystery novel written in the early
+  20th century. The story unfolds against the backdrop of a quaint English village,
+  bringing into focus the tragic murder of Sir Roger Penterton, a figure cloaked in
+  unpopularity and abruptness. The plot engages a cast of characters including Inspector
+  Humblethorne, who is tasked with unraveling the circumstances surrounding the crime,
+  and Philip Castle, the disturbed secretary whose complex relationship with his employer
+  becomes pivotal to the investigation.  At the start of the novel, the setting is
+  established in the quiet village near Salting Towers, where the unexpected murder
+  sets the stage for intrigue and suspicion. The narrative introduces Inspector Humblethorne
+  as he begins his holiday only to be drawn into the investigation of Sir Roger''s
+  violent death. Another central character, Philip Castle, is revealed to have had
+  a contentious relationship with Sir Roger, hinting at underlying tensions that may
+  provide motive for the crime. As villagers react to the shocking news, the opening
+  builds suspense and lays the groundwork for the detective story to unfold, inviting
+  readers to delve into the relationships and mysteries that will be explored throughout
+  the unfolding tale. (This is an automatically generated summary.)'
+title: In the night
+url: http://www.gutenberg.org/ebooks/75628
