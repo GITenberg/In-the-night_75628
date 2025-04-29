@@ -1,5 +1,8 @@
 _repo: In-the-night_75628
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75628-h/images/cover.jpg
 creator:
   author:
     agent_name: Gorell, Ronald Gorell Barnes, Baron
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/58072
     wikipedia: https://en.wikipedia.org/wiki/Ronald_Barnes,_3rd_Baron_Gorell
 description: 'Reading ease score: 78.2 (7th grade). Fairly easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75628#In-the-night
 gutenberg_bookshelf: 'Browsing: Crime/Mystery'
 gutenberg_issued: '2025-03-16'
 gutenberg_type: Text
